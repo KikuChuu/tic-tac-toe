@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1515837789 source:c:\users\aozora\desktop\sdl_fun\capp.cpp
+	"CApp.h"
+
+1515837686 c:\users\aozora\desktop\sdl_fun\capp.h
+	<SDL.h>
+	"CEvent.h"
+	"CSurface.h"
+
+1515838023 source:c:\users\aozora\desktop\sdl_fun\capp_oninit.cpp
+	"CApp.h"
+
+1515638072 source:c:\users\aozora\desktop\sdl_fun\capp_oncleanup.cpp
+	"CApp.h"
+
+1515836135 source:c:\users\aozora\desktop\sdl_fun\capp_onevent.cpp
+	"CApp.h"
+
+1515632951 source:c:\users\aozora\desktop\sdl_fun\capp_onloop.cpp
+	"CApp.h"
+
+1515838280 source:c:\users\aozora\desktop\sdl_fun\capp_onrender.cpp
+	"CApp.h"
+
+1515838579 source:c:\users\aozora\desktop\sdl_fun\csurface.cpp
+	"CSurface.h"
+
+1515837715 c:\users\aozora\desktop\sdl_fun\csurface.h
+	<SDL.h>
+
+1515740465 c:\users\aozora\desktop\sdl_fun\cevent.h
+	<SDL.h>
+
+1515740176 source:c:\users\aozora\desktop\sdl_fun\cevent.cpp
+	"CEvent.h"
+
